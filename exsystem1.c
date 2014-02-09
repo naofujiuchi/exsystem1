@@ -12,7 +12,7 @@ typedef struct{
 }System;
 
 //declare global variant
-char systemname[10] = "recycle";
+char systemname[10] = "cutting";
 char mhorhat[10] = "hat";
 double am0 = 0.0013;
 double ad0 = 0.005;
